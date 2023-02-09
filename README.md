@@ -1,28 +1,13 @@
-Lunch Tray - Starter Code
+# Project: Lunch Tray for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 ==================================
 
-Starter code for the third independent project for Android Basics in Kotlin
-
-Introduction
+## Introduction
 ------------
 
-This is the starter code for the Lunch Tray app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 3 of Android Basics in Kotlin.
+This is the completed code for the Lunch Tray food ordering app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-four) of Android Basics [Unit 3](https://developer.android.com/courses/android-basics-kotlin/unit-3). This project is an opportunity for you to demonstrate the concepts learned in the unit.
 
-Pre-requisites
---------------
 
-- Complete Unit 3 of Android Basics in Kotlin
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+## Main Features
+1. View model w/ data binding
+1. Navigation between fragments
+1. Espresso testing
