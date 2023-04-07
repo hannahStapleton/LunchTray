@@ -11,3 +11,5 @@ This is the completed code for the Lunch Tray food ordering app project in the [
 1. View model w/ data binding
 1. Navigation between fragments
 1. Espresso testing
+
+<img src="https://user-images.githubusercontent.com/114391681/230598452-10dbe942-042f-4f5c-a1ec-1096ed66b43e.gif" width="360" height="640"/>
